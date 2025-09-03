@@ -1,0 +1,28 @@
+{
+  "name": "vilaipayir",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamalesh0703/vilaipayir.git"
+  },
+  "author": "kamalesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamalesh0703/vilaipayir/issues"
+  },
+  "homepage": "https://github.com/kamalesh0703/vilaipayir#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "expresss": "^0.0.0",
+    "mongoose": "^8.18.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0"
+  }
+}
